@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">مجوهرات ابو رميلة التميمي</string>
+    <string name="title_activity_main">abu-rumaila-gold-finder</string>
+    <string name="package_name">com.aburumaila.goldfinder</string>
+    <string name="custom_url_scheme">com.aburumaila.goldfinder</string>
+</resources>
